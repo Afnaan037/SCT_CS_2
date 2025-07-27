@@ -28,7 +28,7 @@ Make sure you have Python 3.x installed.
 📦 How to Run
 1. Clone the repository or download the script:
 
-git clone https://github.com/your-username/password-strength-checker.git
+git clone https://github.com/Afnaan037/SCT_CS_2.git
 cd password-strength-checker
 
 2. Run the script:
